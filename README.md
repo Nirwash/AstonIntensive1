@@ -28,3 +28,5 @@
 	- git add README.md
 	- git commit -m "5th commit from master branch"
 	- git push 
+	
+8. Делаем еще один коммит в мастер ветку и пушим на гитхаб.
