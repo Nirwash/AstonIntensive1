@@ -21,3 +21,10 @@
 6. Пушим на гитхаб 
 
 	- git push -u origin master
+	
+7. Переключаемся на ветку master, делаем некоторые изменения, коммитим и пушим на гитхаб
+
+	- git checkout master
+	- git add README.md
+	- git commit -m "5th commit from master branch"
+	- git push 
